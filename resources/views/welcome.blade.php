@@ -57,7 +57,8 @@
                     :)
                 </div>
                 <div>
-                    Welcome to the new humbabba.com
+                    <p>Welcome to the new humbabba.com.</p>
+                    <p>It ain't much.</p>
                 </div>
             </main>
         </div>
